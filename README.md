@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm Sarbajit Dey 👋</h1>
+<h1 align="center">Hi, I'm Sarbajit Dey , A fellow developer👋</h1>
 
 <p align="center">
-  <b>[Your Role, e.g. Aspiring Software Developer / Web Developer / Data Analyst]</b><br>
-  Based in Kolkata, India 🇮🇳
+  <b>[ Aspiring Software Developer / Web Developer / Data Analyst]</b><br>
+  Based in Siliguri , West Bengal, India 🇮🇳
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a [your role] who enjoys building simple, useful, and well-designed projects.
-I'm currently focused on [what you're learning, e.g. web development and problem solving] and looking for opportunities to grow as a developer.
+I'm a learner who enjoys building simple, useful, and well-designed projects.
+I'm currently focused on learning new tech stacks and looking for opportunities to grow as a developer.
 
-- 🔭 Currently working on: **[your current project]**
-- 🌱 Currently learning: **[technology / skill]**
+- 🔭 Currently working on: 
+- 🌱 Currently learning: 
 - 🎯 Looking for: **[internships / entry-level roles / freelance work]**
-- 💬 Ask me about: **[e.g. HTML, CSS, JavaScript, Python]**
+- 💬 Ask me about: **[e.g. HTML, CSS, JavaScript, Python, Rest API, Fast API,MERN]**
 
 ---
 
@@ -61,4 +61,4 @@ I'm currently focused on [what you're learning, e.g. web development and problem
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](your-portfolio-url)
 
-<p align="center">⭐ Thanks for stopping by!</p>
+<footer align="center">⭐ Thanks for stopping by!</footer>
