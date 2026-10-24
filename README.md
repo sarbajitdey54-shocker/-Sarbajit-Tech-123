@@ -56,9 +56,10 @@ I'm currently focused on learning new tech stacks and looking for opportunities 
 ---
 
 ## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sarbajit-dey-049513335?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](sarbajitdey441@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]()
 
-[![LinkedIn](https://www.linkedin.com/in/sarbajit-dey-049513335?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](sarbajitdey441@gmail.com)
-[![Portfolio]()
 
-<footer align="center">⭐ Thanks for stopping by!</footer>
+
+<footer Text-align="center">⭐ Thanks for stopping by!</footer>
