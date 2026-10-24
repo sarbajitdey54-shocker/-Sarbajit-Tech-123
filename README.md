@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sarbajit Dey , A fellow developer👋</h1>
 
 <p align="center">
-  <b>[ Aspiring Software Developer / Web Developer / Data Analyst]</b><br>
-  Based in Siliguri , West Bengal, India 🇮🇳
+  <b>[ Aspiring Software Developer / Web Developer / AI Engineer ]</b><br>
+  Based in Siliguri , West Bengal, India 
 </p>
 
 ---
